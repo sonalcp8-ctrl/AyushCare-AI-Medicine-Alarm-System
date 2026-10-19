@@ -1,0 +1,9 @@
+{
+  "name": "ayushcare-ai-medicine-alarm-system",
+  "version": "1.0.0",
+  "description": "AI Senior Medicine Alarm & Caretaker System",
+  "scripts": {
+    "start": "cmd /c start-medicine-system.bat",
+    "dev": "cmd /c start-medicine-system.bat"
+  }
+}
